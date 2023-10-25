@@ -1,12 +1,13 @@
-import Navbar from '../components/navbar/Navbar';
-import SocialIcons  from '../components/SocialIcons';
-import ArrowUp  from '../components/ArrowUp';
+import Navbar from '@/components/navbar/Navbar';
+import SocialIcons  from '@/components/SocialIcons';
+import ArrowUp  from '@/components/ArrowUp';
 import Head from 'next/head';
 import { motion } from "framer-motion";
-import Banner from '../components/Banner';
-import Skill from '../components/skill/Skill';
-import Projet from '../components/projets/Projets';
-import Contact from '../components/contact/Contact';
+import Banner from '@/components/Banner';
+import Skill from '@/components/skill/Skill';
+import Projet from '@/components/projets/Projets';
+import Contact from '@/components/contact/Contact';
+
 
 export default function Home() {
   return (
