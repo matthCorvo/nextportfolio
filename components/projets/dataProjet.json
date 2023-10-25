@@ -1,0 +1,62 @@
+{
+    "projets":
+      [
+          { "id":1,
+           "title": "Deliveroo clone",
+           "description": "Un site clone de deliveroo. Ajout au panier et paiement des articles avec authentification.",
+           "linkGithub": "https://github.com/matthCorvo/deliveroo-clone-nestjs-angular/tree/main",
+           "linkDemo": "",
+           "img": "/assets/images/projet6.png",
+          "technologies": [
+            "NestJS",
+            "Angular",
+            "Bootstrap",
+            "PostgreSQL",
+            "SwaggerAPI"
+          ]
+        },
+          { "id":2,
+           "title": "Gestionnaire de tâches",
+           "description": "créer, visualiser, mettre à jour et supprimer des listes de tâches et des tâches individuelles, protégées par l'authentification utilisateur.",
+           "linkGithub": "https://github.com/matthCorvo/Task-Manager",
+           "linkDemo": "",
+           "img": "/assets/images/screenshot.png",
+          "technologies": [
+            "Angular",
+            "Bootstrap",
+            "MySQL",
+            "Symfony "
+          ]
+        },
+          { "id":3,
+           "title": "Job board",
+           "description": "Un site de consultation d'offres d'emploi avec des fonctionnalités de filtrage et de pagination.",
+           "linkGithub": "https://github.com/matthCorvo/Job-Board-PHP",
+           "linkDemo": "https://jobboard.alwaysdata.net/",
+           "img": "/assets/images/job.png",
+          "technologies": [
+            "PHP",
+            "MySQL",
+            "Javascript",
+            "Bootstrap"
+          ]
+        },
+          { "id":4,
+           "title": "Abatoire végétal",
+           "description": "Ajout d'un espace de réservation de table dans un restaurant. Les utilisateurs peuvent inviter des amis en fonction de leurs centres d'intérêt.",
+           "linkGithub": "https://github.com/matthCorvo/abattoir_vegetal",
+           "linkDemo": "http://abattoir-vegetal.sekhmet.lapasserelle.school/",
+           "img": "/assets/images/projet5.png",
+          "technologies": [
+            "Javascript",
+            "MongoDB",
+            "Symfony ",
+            "Twig ",
+            "PHP "
+          ]
+        }
+
+         
+         
+      ]
+  }
