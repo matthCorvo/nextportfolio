@@ -18,14 +18,22 @@ interface AboutProps {
         transition={{ duration: 0.5, delay: 0.9 }}
         style={{ display: toggle ? 'none' : '' }}
         className="flex flex-col lgl:flex-row gap-16">
-        <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
+        <div className=" text-justify w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-          En 2020, j&apos;ai débuté en créant des sites web, principalement Shopify, à la demande de proches. Après une intense auto-formation, j&apos;ai suivi une formation au <span className="text-textGreen">GRETA</span> pour devenir développeur web. J&apos;ai ensuite élargi mes compétences en front-end avec JavaScript, Bootstrap et Tailwind CSS. Plus tard, j&apos;ai formé des adultes sur l&apos;utilisation de WordPress. </p>
+          Cela fait déjà près de 3 ans maintenant que je me suis plongé dans le monde passionnant de la programmation, en développant des sites web et des applications qui sont devenus le cœur de mes activités. 
+          </p>
+          <p>
+          Après des mois d&apos;auto-apprentissage intensif, j&apos;ai décidé de rejoindre le <span className="text-textGreen">GRETA</span> pour une formation de développeur web. Cette expérience a été déterminante pour mon développement professionnel. J&apos;ai eu l&apos;opportunité d&apos;acquérir une solide expertise en JavaScript, ainsi que de maîtriser des frameworks front-end tels que Bootstrap et TailwindCSS.<br />
+          En outre, j&apos;ai également partagé mon savoir en animant des formations sur la création de thèmes WordPress en tant que formateur pour le <span className="text-textGreen">GRETA</span>. À l&apos;issue de cette formation, ma détermination à élever mes compétences à un niveau supérieur s&apos;est encore renforcée.
+           </p>
           <p> 
-          Pour approfondir mon savoir en gestion de projets, j&apos;ai suivi une formation en chef de projet digital avec <span className="text-textGreen">DORANCO</span>. J&apos;y ai acquis des compétences en React et en back-end avec Node.js, Express.js, PHP et Symfony. </p>
+          Pour perfectionner ma compréhension de la gestion de projets, j&apos;ai suivi avec <span className="text-textGreen">DORANCO</span> une formation de chef de projet digital.Là, J&apos;ai acquis des compétences en React et en back-end avec Node.js, Express.js ainsi qu&apos;une initiation a PHP et Symfony. </p>
           <p>    
-          J&apos;ai renforcé mes compétences en m&apos;immergeant dans un POEC à <span className="text-textGreen">La Passerelle </span>axé sur le PHP, avec Symfony, MySQL et MongoDB. J&apos;ai réussi des projets en PHP, collaboré avec des designers en équipe en fin de formation, élargissant ainsi ma polyvalence de développeur.
+          J&apos;ai choisi de poursuivre mon parcours en m&apos;immergeant dans un bootcamp dédié au PHP au sein de <span className="text-textGreen">La Passerelle</span>. Ce parcours intensif m&apos;a non seulement permis d&apos;élargir mes compétences sur PHP, Symfony, MySQL et MongoDB. 
           </p>          
+             <p>
+             Ainsi, après ces années d&apos;exploration et de formation intense, je suis prêt à mettre en pratique mes compétences et à continuer de me développer en tant que développeur web. Mon voyage dans le monde de la programmation ne fait que commencer, et je suis impatient de relever de nouveaux défis et de contribuer à des projets passionnants.
+              </p>     
         </div>
         <div className="w-full lgl:w-1/3 h-80 relative group">
           <div className="absolute w-full h-80 -left-6 -top-6 rounded-lg ">
