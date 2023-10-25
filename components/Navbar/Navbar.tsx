@@ -10,7 +10,7 @@ import { TbBrandGithubFilled } from 'react-icons/tb';
 import { FaLinkedinIn } from 'react-icons/fa';
 
 const Navbar = () => {
-  // Créer une référence (ref) pour accéder à un élément du DOM.
+  // Créer une référence  pour accéder à un élément du DOM.
   const ref = useRef<string | any>("");
   // affichage menu mobile.
   const [show, setShow] = useState(false);
