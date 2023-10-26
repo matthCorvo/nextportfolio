@@ -42,7 +42,7 @@
           ]
         },
           { "id":4,
-           "title": "Abatoire végétal",
+           "title": "Abattoire végétal",
            "description": "Ajout d'un espace de réservation de table dans un restaurant. Les utilisateurs peuvent inviter des amis en fonction de leurs centres d'intérêt.",
            "linkGithub": "https://github.com/matthCorvo/abattoir_vegetal",
            "linkDemo": "http://abattoir-vegetal.sekhmet.lapasserelle.school/",
