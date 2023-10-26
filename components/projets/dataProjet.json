@@ -5,7 +5,7 @@
            "title": "Deliveroo clone",
            "description": "Un site clone de deliveroo. Ajout au panier et paiement des articles avec authentification.",
            "linkGithub": "https://github.com/matthCorvo/deliveroo-clone-nestjs-angular/tree/main",
-           "linkDemo": "",
+           "linkDemo": "https://deliveroo-clone-ng.netlify.app/",
            "img": "/assets/images/projet6.png",
           "technologies": [
             "NestJS",
