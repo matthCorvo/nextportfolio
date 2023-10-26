@@ -27,7 +27,7 @@ interface AboutProps {
           En outre, j&apos;ai également partagé mon savoir en animant des formations sur la création de thèmes WordPress en tant que formateur pour le <span className="text-textGreen">GRETA</span>. À l&apos;issue de cette formation, ma détermination à élever mes compétences à un niveau supérieur s&apos;est encore renforcée.
            </p>
           <p> 
-          Pour perfectionner ma compréhension de la gestion de projets, j&apos;ai suivi avec <span className="text-textGreen">DORANCO</span> une formation de chef de projet digital.Là, J&apos;ai acquis des compétences en React et en back-end avec Node.js, Express.js ainsi qu&apos;une initiation a PHP et Symfony. </p>
+          Pour perfectionner ma compréhension de la gestion de projets, j&apos;ai suivi avec <span className="text-textGreen">DORANCO</span> une formation de chef de projet digital. Là, J&apos;ai acquis des compétences en React et en back-end avec Node.js, Express.js ainsi qu&apos;une initiation a PHP et Symfony. </p>
           <p>    
           J&apos;ai choisi de poursuivre mon parcours en m&apos;immergeant dans un bootcamp dédié au PHP au sein de <span className="text-textGreen">La Passerelle</span>. Ce parcours intensif m&apos;a non seulement permis d&apos;élargir mes compétences sur PHP, Symfony, MySQL et MongoDB. 
           </p>          
