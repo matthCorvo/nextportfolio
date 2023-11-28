@@ -27,7 +27,7 @@ const handleClick = () => {
       
       <div className="flex flex-col sm:flex-row items-center  gap-4  text-lg font-medium" >
 
-        <motion.button
+        {/* <motion.button
           onClick={handleClick} 
           initial={{ y: 10, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
@@ -35,7 +35,7 @@ const handleClick = () => {
           className="group bg-gray-900 font-semibold  text-white px-7 py-3 flex items-center gap-2 rounded-lg outline-none "
         >
           qui suis-je ?
-        </motion.button>
+        </motion.button> */}
 
       <a href="/assets/CV.pdf" target="_blank">
         <motion.button
