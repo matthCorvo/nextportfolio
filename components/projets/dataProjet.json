@@ -25,7 +25,9 @@
             "Angular",
             "Bootstrap",
             "MySQL",
-            "Symfony "
+            "Symfony ",
+            "docker",
+            "Api Platform"  
           ]
         },
           { "id":3,
